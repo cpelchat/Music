@@ -1,0 +1,2 @@
+C:\Users\Cassidy\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+C:\Users\Cassidy\source\repos\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
